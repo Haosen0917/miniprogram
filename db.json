@@ -1,48 +1,4 @@
 {
-  "category": [
-  {
-    id: 1,
-    title: "童书",
-    items: [
-      {
-        id: 1001,
-        name: "绘本"
-      },
-      {
-        id: 1002,
-        name: "启蒙益智"
-      },
-      {
-        id: 1003,
-        name: "科普百科"
-      },
-      {
-        id: 1004,
-        name: "人文艺术"
-      },
-      {
-        id: 1005,
-        name: "儿童文学"
-      },
-      {
-        id: 1006,
-        name: "人格塑造"
-      },
-      {
-        id: 1007,
-        name: "英语启蒙"
-      },
-      {
-        id: 1008,
-        name: "卡通动漫"
-      },
-      {
-        id: 1009,
-        name: "图画故事"
-      },
-    ],
-  }
-],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
